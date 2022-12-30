@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 30 Dec 2022 17:26:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[2022 Список вещей - Застава у Оки ]]></title>
+            <guid>e78ed3da7f444614883f22694c1b362b</guid>
+            <pubDate>Fri, 30 Dec 2022 14:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="алекс">Алекс</h1>
+<ul>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-0" /><label id="cb-label-md-checkbox-0" for="md-checkbox-0" class="checkbox-label-unchecked">коляска</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-1" /><label id="cb-label-md-checkbox-1" for="md-checkbox-1" class="checkbox-label-unchecked">Коврики</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-2" /><label id="cb-label-md-checkbox-2" for="md-checkbox-2" class="checkbox-label-unchecked">Палатка</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-3" /><label id="cb-label-md-checkbox-3" for="md-checkbox-3" class="checkbox-label-unchecked">Игрушки</label></div></li>
+</ul>
+<h3 id="алекс-еда">Алекс Еда</h3>
+<ul>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-4" /><label id="cb-label-md-checkbox-4" for="md-checkbox-4" class="checkbox-label-unchecked">Готовая еда</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-5" /><label id="cb-label-md-checkbox-5" for="md-checkbox-5" class="checkbox-label-unchecked">Малоежка</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-6" /><label id="cb-label-md-checkbox-6" for="md-checkbox-6" class="checkbox-label-unchecked">Фрикадельки</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-7" /><label id="cb-label-md-checkbox-7" for="md-checkbox-7" class="checkbox-label-unchecked">Кашки готовые</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-8" /><label id="cb-label-md-checkbox-8" for="md-checkbox-8" class="checkbox-label-unchecked">Каши заваривать</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-9" /><label id="cb-label-md-checkbox-9" for="md-checkbox-9" class="checkbox-label-unchecked">Поильник термос</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-10" /><label id="cb-label-md-checkbox-10" for="md-checkbox-10" class="checkbox-label-unchecked">Поильник икея</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-11" /><label id="cb-label-md-checkbox-11" for="md-checkbox-11" class="checkbox-label-unchecked">Вода 0,33 с пипкой 2 шт. (агуша плохая)</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-12" /><label id="cb-label-md-checkbox-12" for="md-checkbox-12" class="checkbox-label-unchecked">Вода 2 л, 2 шт.</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-13" /><label id="cb-label-md-checkbox-13" for="md-checkbox-13" class="checkbox-label-unchecked">Нагрудник</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-14" /><label id="cb-label-md-checkbox-14" for="md-checkbox-14" class="checkbox-label-unchecked">Ложка и вилка</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-15" /><label id="cb-label-md-checkbox-15" for="md-checkbox-15" class="checkbox-label-unchecked">Тарелки</label></div></li>
+</ul>
+<h3 id="алекс-купание-и-уход">Алекс Купание и уход</h3>
+<ul>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-16" /><label id="cb-label-md-checkbox-16" for="md-checkbox-16" class="checkbox-label-unchecked">Средство для мытья</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-17" /><label id="cb-label-md-checkbox-17" for="md-checkbox-17" class="checkbox-label-unchecked">Полотенце</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-18" /><label id="cb-label-md-checkbox-18" for="md-checkbox-18" class="checkbox-label-unchecked">Щётка и паста</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-19" /><label id="cb-label-md-checkbox-19" for="md-checkbox-19" class="checkbox-label-unchecked">Подгузники</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-20" /><label id="cb-label-md-checkbox-20" for="md-checkbox-20" class="checkbox-label-unchecked">Пакеты для мусора 10л</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-21" /><label id="cb-label-md-checkbox-21" for="md-checkbox-21" class="checkbox-label-unchecked">Салфетки влажные</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-22" /><label id="cb-label-md-checkbox-22" for="md-checkbox-22" class="checkbox-label-unchecked">Ножницы</label></div></li>
+</ul>
+<h3 id="алекс-одежда">Алекс Одежда</h3>
+<ul>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-23" /><label id="cb-label-md-checkbox-23" for="md-checkbox-23" class="checkbox-label-unchecked">Утепляшки</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-24" /><label id="cb-label-md-checkbox-24" for="md-checkbox-24" class="checkbox-label-unchecked">Носки шерстяные тонк и толст</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-25" /><label id="cb-label-md-checkbox-25" for="md-checkbox-25" class="checkbox-label-unchecked">Носки обычные</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-26" /><label id="cb-label-md-checkbox-26" for="md-checkbox-26" class="checkbox-label-unchecked">Плед укутывать</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-27" /><label id="cb-label-md-checkbox-27" for="md-checkbox-27" class="checkbox-label-unchecked">Плавки и плав комбез</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-28" /><label id="cb-label-md-checkbox-28" for="md-checkbox-28" class="checkbox-label-unchecked">Кроксы</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-29" /><label id="cb-label-md-checkbox-29" for="md-checkbox-29" class="checkbox-label-unchecked">Шапки 2 шт</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-30" /><label id="cb-label-md-checkbox-30" for="md-checkbox-30" class="checkbox-label-unchecked">Синяя куртка + штаны</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-31" /><label id="cb-label-md-checkbox-31" for="md-checkbox-31" class="checkbox-label-unchecked">Синий комбинезон</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-32" /><label id="cb-label-md-checkbox-32" for="md-checkbox-32" class="checkbox-label-unchecked">Обычная одежда</label></div></li>
+</ul>
+<h3 id="алекс-аптечка">Алекс Аптечка</h3>
+<ul>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-33" /><label id="cb-label-md-checkbox-33" for="md-checkbox-33" class="checkbox-label-unchecked">Фенистил</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-34" /><label id="cb-label-md-checkbox-34" for="md-checkbox-34" class="checkbox-label-unchecked">Витамин Д</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-35" /><label id="cb-label-md-checkbox-35" for="md-checkbox-35" class="checkbox-label-unchecked">Нурофен</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-36" /><label id="cb-label-md-checkbox-36" for="md-checkbox-36" class="checkbox-label-unchecked">Бониацин</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-37" /><label id="cb-label-md-checkbox-37" for="md-checkbox-37" class="checkbox-label-unchecked">Шприц</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-38" /><label id="cb-label-md-checkbox-38" for="md-checkbox-38" class="checkbox-label-unchecked">Ватные диски</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-39" /><label id="cb-label-md-checkbox-39" for="md-checkbox-39" class="checkbox-label-unchecked">Пластыри</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-40" /><label id="cb-label-md-checkbox-40" for="md-checkbox-40" class="checkbox-label-unchecked">Градусник</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-41" /><label id="cb-label-md-checkbox-41" for="md-checkbox-41" class="checkbox-label-unchecked">аквалор для носа и горла</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-42" /><label id="cb-label-md-checkbox-42" for="md-checkbox-42" class="checkbox-label-unchecked">мирамистин</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-43" /><label id="cb-label-md-checkbox-43" for="md-checkbox-43" class="checkbox-label-unchecked">Тозилгон</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-44" /><label id="cb-label-md-checkbox-44" for="md-checkbox-44" class="checkbox-label-unchecked">Платки носовые</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-45" /><label id="cb-label-md-checkbox-45" for="md-checkbox-45" class="checkbox-label-unchecked">Називин</label></div></li>
+</ul>
+<h1 id="слава">Слава</h1>
+<ul>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-46" /><label id="cb-label-md-checkbox-46" for="md-checkbox-46" class="checkbox-label-unchecked">Контейнеры пустые с собой (чтобы еду брать в номер) 3 шт</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-47" /><label id="cb-label-md-checkbox-47" for="md-checkbox-47" class="checkbox-label-unchecked">Вода</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-48" /><label id="cb-label-md-checkbox-48" for="md-checkbox-48" class="checkbox-label-unchecked">Еда</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-49" /><label id="cb-label-md-checkbox-49" for="md-checkbox-49" class="checkbox-label-unchecked">Трос для машины</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-50" /><label id="cb-label-md-checkbox-50" for="md-checkbox-50" class="checkbox-label-unchecked">Подарки (купить пакеты)</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-51" /><label id="cb-label-md-checkbox-51" for="md-checkbox-51" class="checkbox-label-unchecked">Документы</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-52" /><label id="cb-label-md-checkbox-52" for="md-checkbox-52" class="checkbox-label-unchecked">Деньги</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-53" /><label id="cb-label-md-checkbox-53" for="md-checkbox-53" class="checkbox-label-unchecked">Внешний акк</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-54" /><label id="cb-label-md-checkbox-54" for="md-checkbox-54" class="checkbox-label-unchecked">Телефон + зарядка</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-55" /><label id="cb-label-md-checkbox-55" for="md-checkbox-55" class="checkbox-label-unchecked">БТ колонка</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-56" /><label id="cb-label-md-checkbox-56" for="md-checkbox-56" class="checkbox-label-unchecked">Настолки</label></div></li>
+</ul>
+<h3 id="слава-одежда">Слава Одежда</h3>
+<ul>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-57" /><label id="cb-label-md-checkbox-57" for="md-checkbox-57" class="checkbox-label-unchecked">Свитер</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-58" /><label id="cb-label-md-checkbox-58" for="md-checkbox-58" class="checkbox-label-unchecked">Куртка</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-59" /><label id="cb-label-md-checkbox-59" for="md-checkbox-59" class="checkbox-label-unchecked">Куртка жарить шашлык</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-60" /><label id="cb-label-md-checkbox-60" for="md-checkbox-60" class="checkbox-label-unchecked">Футболки</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-61" /><label id="cb-label-md-checkbox-61" for="md-checkbox-61" class="checkbox-label-unchecked">Трусы</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-62" /><label id="cb-label-md-checkbox-62" for="md-checkbox-62" class="checkbox-label-unchecked">Носки</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-63" /><label id="cb-label-md-checkbox-63" for="md-checkbox-63" class="checkbox-label-unchecked">Шерстянные носки</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-64" /><label id="cb-label-md-checkbox-64" for="md-checkbox-64" class="checkbox-label-unchecked">Термобелье</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-65" /><label id="cb-label-md-checkbox-65" for="md-checkbox-65" class="checkbox-label-unchecked">Джинсы</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-66" /><label id="cb-label-md-checkbox-66" for="md-checkbox-66" class="checkbox-label-unchecked">Спортивные штаны</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-67" /><label id="cb-label-md-checkbox-67" for="md-checkbox-67" class="checkbox-label-unchecked">Ремень</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-68" /><label id="cb-label-md-checkbox-68" for="md-checkbox-68" class="checkbox-label-unchecked">Плавки</label></div></li>
+</ul>
+<h3 id="слава-обувь">Слава Обувь</h3>
+<ul>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-69" /><label id="cb-label-md-checkbox-69" for="md-checkbox-69" class="checkbox-label-unchecked">Тапки</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-70" /><label id="cb-label-md-checkbox-70" for="md-checkbox-70" class="checkbox-label-unchecked">Танцевальные тапки</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-71" /><label id="cb-label-md-checkbox-71" for="md-checkbox-71" class="checkbox-label-unchecked">Ботинки</label></div></li>
+</ul>
+<h3 id="слава-уход-и-аптечка">Слава Уход и аптечка</h3>
+<ul>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-72" /><label id="cb-label-md-checkbox-72" for="md-checkbox-72" class="checkbox-label-unchecked">Полотенце</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-73" /><label id="cb-label-md-checkbox-73" for="md-checkbox-73" class="checkbox-label-unchecked">Шампунь</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-74" /><label id="cb-label-md-checkbox-74" for="md-checkbox-74" class="checkbox-label-unchecked">Мочалка</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-75" /><label id="cb-label-md-checkbox-75" for="md-checkbox-75" class="checkbox-label-unchecked">З. Щётка и паста</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-76" /><label id="cb-label-md-checkbox-76" for="md-checkbox-76" class="checkbox-label-unchecked">бальзам для губ</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-77" /><label id="cb-label-md-checkbox-77" for="md-checkbox-77" class="checkbox-label-unchecked">расческа</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-78" /><label id="cb-label-md-checkbox-78" for="md-checkbox-78" class="checkbox-label-unchecked">Дезик</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-79" /><label id="cb-label-md-checkbox-79" for="md-checkbox-79" class="checkbox-label-unchecked">Ватные палки</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-80" /><label id="cb-label-md-checkbox-80" for="md-checkbox-80" class="checkbox-label-unchecked">Спиртовой хлоргексидин</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-81" /><label id="cb-label-md-checkbox-81" for="md-checkbox-81" class="checkbox-label-unchecked">диклофенак</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-82" /><label id="cb-label-md-checkbox-82" for="md-checkbox-82" class="checkbox-label-unchecked">беруши</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-83" /><label id="cb-label-md-checkbox-83" for="md-checkbox-83" class="checkbox-label-unchecked">витамин Д</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-84" /><label id="cb-label-md-checkbox-84" for="md-checkbox-84" class="checkbox-label-unchecked">Влажные салфетки</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-85" /><label id="cb-label-md-checkbox-85" for="md-checkbox-85" class="checkbox-label-unchecked">Окомистин</label></div></li>
+<li class="md-checkbox joplin-checkbox"><div class="checkbox-wrapper"><input type="checkbox" id="md-checkbox-86" /><label id="cb-label-md-checkbox-86" for="md-checkbox-86" class="checkbox-label-unchecked">Цитрамон</label></div></li>
+</ul>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
