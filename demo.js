@@ -1,1 +1,1 @@
-alert('жопа тупая');
+alert('ddddd');
