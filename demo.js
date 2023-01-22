@@ -1,1 +1,1 @@
-alert('rrred');
+alert('жопа');
