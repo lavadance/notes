@@ -1,1 +1,1 @@
-alert('ddddd ');
+alert('12345');
