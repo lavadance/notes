@@ -1,1 +1,1 @@
-alert('12345');
+alert('red');
